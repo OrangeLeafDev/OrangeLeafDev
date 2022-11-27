@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OrangeLeafDev
-- 👀 I’m interested in ... python & scratch
-- 🌱 I’m currently learning ... cloud-related
+- 👀 I’m interested in game development (pygame, scratch/turbowarp)
+- 🌱 I’m currently learning pygame
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... orangeleafdev@gmail.com
+- 📫 How to reach me orangeleafdev@gmail.com
 
 <!---
 OrangeLeafDev/OrangeLeafDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

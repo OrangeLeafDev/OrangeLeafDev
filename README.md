@@ -1,8 +1,8 @@
 @OrangeLeafDev
 
-interested in game and web development (javascript, html, pygame, scratch/turbowarp)
+interested in game and web development (Javascript+HTML+CSS, Node.JS, Pygame, Scratch/TurboWarp, Godot)
 
-orangeleafdev@gmail.com
+contact@orangeleaf36.dev
 
 <!---
 OrangeLeafDev/OrangeLeafDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

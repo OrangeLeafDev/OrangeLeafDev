@@ -1,6 +1,6 @@
 @OrangeLeafDev
 
-interested in game and web development (Javascript+HTML+CSS, Node.JS, Pygame, Scratch/TurboWarp, Godot)
+a dum orange that likes doing game development and web development (Javascript+HTML+CSS, Node.JS, Pygame, Scratch/TurboWarp, Godot)
 
 contact@orangeleaf36.dev
 
